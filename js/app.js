@@ -2,7 +2,6 @@ var estudiantes = [];
 
 function obtenerListaEstudiantes() {
     // TO DO: Retornar la lista de estudiantes
-    var listaEstudiantes = estudiantes;//hice esta variable (segun yo XD) para agrupar lo que venga de estudiantes
     return estudiantes.toLowerCase();// pá que amarre esas letras raras
 }
    
